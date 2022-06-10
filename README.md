@@ -5,4 +5,7 @@ This tutorial focuses mainly on Git and using GitHub as its remote.
 adf
 This repository is built step by step in the tutorial.
 
+
+Adding more comments. 
+
 It now includes steps for GitHub
